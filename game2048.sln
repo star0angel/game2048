@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game2048", "game2048.vcxproj", "{52C472B5-8CD4-46D8-A5BA-3DE3F6ACD98A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C472B5-8CD4-46D8-A5BA-3DE3F6ACD98A}.Debug|x64.ActiveCfg = Debug|x64
+		{52C472B5-8CD4-46D8-A5BA-3DE3F6ACD98A}.Debug|x64.Build.0 = Debug|x64
+		{52C472B5-8CD4-46D8-A5BA-3DE3F6ACD98A}.Debug|x86.ActiveCfg = Debug|Win32
+		{52C472B5-8CD4-46D8-A5BA-3DE3F6ACD98A}.Debug|x86.Build.0 = Debug|Win32
+		{52C472B5-8CD4-46D8-A5BA-3DE3F6ACD98A}.Release|x64.ActiveCfg = Release|x64
+		{52C472B5-8CD4-46D8-A5BA-3DE3F6ACD98A}.Release|x64.Build.0 = Release|x64
+		{52C472B5-8CD4-46D8-A5BA-3DE3F6ACD98A}.Release|x86.ActiveCfg = Release|Win32
+		{52C472B5-8CD4-46D8-A5BA-3DE3F6ACD98A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B0A7662-5C78-4DDC-A305-C9455B94DF74}
+	EndGlobalSection
+EndGlobal
